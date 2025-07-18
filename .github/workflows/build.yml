@@ -23,4 +23,4 @@ jobs:
 
       - name: Push Docker image to OCIR
         run: docker push nrt.ocir.io/nr7eydsfajq7/oke-cicd-test:latest
-#
+#test
